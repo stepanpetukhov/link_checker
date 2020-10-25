@@ -1,0 +1,3 @@
+INFO:root:Program started at 2020-10-25-17.55.43
+ERROR:root:request to https://contragents.ru/blogs/996/ have RequestException
+INFO:root:Program finished at 2020-10-25-17.59.10
