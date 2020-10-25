@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="879558c4-576b-4d5e-96b3-968f799e2a68" name="Default Changelist" comment="" />
+    <list default="true" id="879558c4-576b-4d5e-96b3-968f799e2a68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jN0hTlaf6R14Z368xjdiSgaB85" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -66,26 +75,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1603637743117">
+    <state x="264" y="2" key="CommitChangelistDialog2" timestamp="1603639072754">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603637743117" />
-    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1603637743115">
+    <state x="264" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1603639072754" />
+    <state x="499" y="300" key="Github.ShareDialog" timestamp="1603639043087">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603637743115" />
-    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1603637743114">
+    <state x="499" y="300" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1603639043087" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1603638636790">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603637743114" />
-    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1603637743117">
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603638636790" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1603638636788">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603637743117" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603638636788" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1603638636787">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603638636787" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1603638636789">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603638636789" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1603630546826">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1603630546826" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1603639089638">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603639089638" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1603633055626">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
